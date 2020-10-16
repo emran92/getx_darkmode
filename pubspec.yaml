@@ -1,0 +1,13 @@
+name: getx_darkmode
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^3.13.2
+  get_storage: ^1.3.1
